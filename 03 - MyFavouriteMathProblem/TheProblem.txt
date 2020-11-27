@@ -1,0 +1,8 @@
+There are 7 holes in the ground, with a tunnel connecting them in a straight line under ground.
+There is a mole in the tunnel, you know not where, and you are trying to catch it.
+The mole is at rest, and always reachable under one of the openings.
+You cannot see into the holes, so you must reach into a hole with your hand to know if that is where the mole is.
+If the mole is in the hole you reach into, you catch it.
+Reaching into any opening scares it though, so if you did not catch it then after you pull your hand back out of a hole it will always move to an adjacent hole.
+
+Prove with 100% certainty why it either IS or IS NOT possible to catch the mole.
